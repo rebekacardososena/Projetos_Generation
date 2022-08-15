@@ -1,4 +1,4 @@
-package com.lojagamesgen.lojagames.Security;
+package com.lojagamesgen.lojagames.security;
 
 import java.util.Optional;
 

@@ -1,4 +1,4 @@
-package com.lojagamesgen.lojagames.Security;
+package com.lojagamesgen.lojagames.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
